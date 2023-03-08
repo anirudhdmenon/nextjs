@@ -6,6 +6,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 Credits:
 https://tailwindui.com/
 https://www.freeiconspng.com/
+https://github.com/rivera1294/next-starwars
 
 ## Getting Started
 
