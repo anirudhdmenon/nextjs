@@ -1,4 +1,11 @@
+website: 
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+Credits:
+https://tailwindui.com/
+https://www.freeiconspng.com/
 
 ## Getting Started
 
