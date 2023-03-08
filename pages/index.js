@@ -1,5 +1,3 @@
-import Image from 'next/image'
-
 export default function Home() {
   return (
     <div>
@@ -13,10 +11,7 @@ export default function Home() {
         neque. Fusce malesuada tellus sed enim rhoncus, id vestibulum justo commodo. Quisque id velit non ex 
         vehicula facilisis non at orci. Nunc cursus eleifend fringilla. Mauris posuere, dui in dictum rhoncus, 
         dolor augue posuere erat, quis sagittis urna mi eu est. Praesent non purus ac elit scelerisque sodales.</p>
-      <img
-        src="https://www.freeiconspng.com/uploads/lamborghini-car-png-4.png" 
-        alt="Website Icon" 
-      />
+      
       <p className="mb-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec vehicula augue. In blandit justo ex, 
         quis viverra nisi commodo ut. Morbi molestie finibus iaculis. Praesent luctus, quam id placerat mollis, 
         eros ex tempus dui, eget ultricies erat nisi in ipsum. Quisque eu auctor libero, sed imperdiet ante. 

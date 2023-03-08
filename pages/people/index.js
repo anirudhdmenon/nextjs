@@ -31,7 +31,7 @@ export default function People({ data }) {
                     )
                 })}
             </div>
-            <a href="https://www.freeiconspng.com/img/39069" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/red-sports-car-ferrari-png-23.png" alt="red sports car, ferrari png" /></a>
+            
         </div>
     )
 }

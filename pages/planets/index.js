@@ -20,7 +20,7 @@ export default function Planets({ data }) {
     return (
         <div>
             <h1 className="text-center text-xl font-semibold my-6">Planets</h1>
-            <a href="https://www.freeiconspng.com/img/39070" title="porsche-car"><img src="https://www.freeiconspng.com/uploads/porsche-car-png-24.png" alt="porsche car png" /></a>
+            
             <div className="flex flex-wrap justify-center">
                 {data.results.map(planet => {
                     const urlArr = planet.url.split("/")
