@@ -14,10 +14,10 @@ export default function Navbar() {
                 </div>
                 <div class="hidden md:block">
                   <div class="ml-10 flex items-baseline space-x-4">
-                    <a href='/people' class="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">People</a>
-                    <a href='/planets' class="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">Projects</a>
-                    <a href='/vehicles' class="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">Vehicles</a>
-                    <a href="/contact" class="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">Contact Us</a>
+                    <Link href='/people' class="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">People</Link>
+                    <Link href='/planets' class="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">Projects</Link>
+                    <Link href='/vehicles' class="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">Vehicles</Link>
+                    <Link href="/contact" class="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">Contact Us</Link>
                   </div>
                 </div>
               </div>
@@ -32,7 +32,7 @@ export default function Navbar() {
 
                   <div class="relative ml-3">
                   <div>
-                  <a href='/signup' class="text-gray-300 bg-gray-700 hover:bg-white-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">LogIn/SignUp</a>
+                  <Link href='/signup' class="text-gray-300 bg-gray-700 hover:bg-white-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">LogIn/SignUp</Link>
                     </div>
                   </div>
                 </div>
