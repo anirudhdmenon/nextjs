@@ -1,5 +1,6 @@
-website: 
-
+website: https://nextjs-website-anirudhdmenon.vercel.app/
+https://nextjs-website-eosin-omega.vercel.app/
+https://nextjs-website-git-main-anirudhdmenon.vercel.app/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
