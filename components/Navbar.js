@@ -9,7 +9,7 @@ export default function Navbar() {
             <div class="flex h-16 items-center justify-between">
               <div class="flex items-center">
                 <div class="ml-2 flex items-baseline">
-                  <img class="h-8 w-10" src="https://www.freeiconspng.com/uploads/audi-jeep-q3-car-png-7.png" alt="Website Icon"/>
+                  
                   <h1 class="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-3xl font-large"><Link href='/'>NextJS Website</Link></h1>
                 </div>
                 <div class="hidden md:block">
