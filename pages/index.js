@@ -28,7 +28,16 @@ export default function Home() {
         neque. Fusce malesuada tellus sed enim rhoncus, id vestibulum justo commodo. Quisque id velit non ex 
         vehicula facilisis non at orci. Nunc cursus eleifend fringilla. Mauris posuere, dui in dictum rhoncus, 
         dolor augue posuere erat, quis sagittis urna mi eu est. Praesent non purus ac elit scelerisque sodales.</p>
-
+        <div className="flex justify-center mb-5">
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/a3ICNMQW7Ok"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
     </div>
   )
 }
