@@ -30,11 +30,10 @@ export default function Home() {
         dolor augue posuere erat, quis sagittis urna mi eu est. Praesent non purus ac elit scelerisque sodales.</p>
         <div className="flex justify-center mb-5">
           <iframe
-            width="560"
-            height="315"
+            width="800"
+            height="400"
             src="https://www.youtube.com/embed/a3ICNMQW7Ok"
             title="YouTube video player"
-            allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen
           ></iframe>
         </div>
