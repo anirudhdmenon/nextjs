@@ -34,7 +34,7 @@ export default function Home() {
             height="315"
             src="https://www.youtube.com/embed/a3ICNMQW7Ok"
             title="YouTube video player"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen
           ></iframe>
         </div>
