@@ -5,7 +5,7 @@ export default function Document() {
     <Html lang="en">
       <Head>
         <script id="cookieyes" type="text/javascript" src="https://scriptstaging.cookieyes.com/client_data/43d91c49ab844efb74ac5f76/script.js" async></script>
-        <script data-cookieyes="cookieyes-analytics" src="index"></script>
+        <script async data-cookieyes="cookieyes-analytics" src="index"></script>
       </Head>
       <body>
         <Main />
