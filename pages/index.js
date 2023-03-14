@@ -1,5 +1,3 @@
-import { Html, Head} from 'next/document'
-
 export default function Home() {
   return (
     <Html lang="en">
