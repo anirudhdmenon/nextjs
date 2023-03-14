@@ -8,6 +8,13 @@ export default function Document() {
       </Head>
       <body>
         <Main />
+        <iframe
+                  width="800"
+                  height="400"
+                  src="https://www.youtube.com/embed/tgbNymZ7vqY"
+                  title="YouTube video player"
+                  allowfullscreen
+        ></iframe>
         <NextScript />
       </body>
     </Html>
