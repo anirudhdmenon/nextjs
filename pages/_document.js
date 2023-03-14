@@ -11,10 +11,10 @@ export default function Document() {
         <iframe
                   width="800"
                   height="400"
-                  src="https://www.youtube.com/embed/tgbNymZ7vqY"
+                  src="https://www.youtube.com/embed/a3ICNMQW7Ok"
                   title="YouTube video player"
                   allowfullscreen
-        ></iframe>
+                ></iframe>
         <NextScript />
       </body>
     </Html>
