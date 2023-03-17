@@ -4,12 +4,7 @@ import Script from 'next/script';
 export default function Document() {
   return (
     <Html lang="en">
-      <Head>
-        <Script id="cookieyes"
-          src="https://scriptstaging.cookieyes.com/client_data/43d91c49ab844efb74ac5f76/script.js"
-          strategy="beforeInteractive">
-        </Script>
-      </Head>
+      <Head/>
       <body>
         <Main />
         <NextScript />
