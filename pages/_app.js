@@ -15,6 +15,13 @@ export default function RootLayout({ Component, pageProps }) {
         <div className="w-5/6 m-auto">
           <Component {...pageProps} />
         </div>
+        <iframe
+            width="800"
+            height="400"
+            src="https://www.youtube.com/embed/a3ICNMQW7Ok"
+            title="YouTube video player"
+            allowfullscreen
+          ></iframe>
       </Layout>
     </html>
   )
