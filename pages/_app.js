@@ -8,9 +8,7 @@ export default function RootLayout({ Component, pageProps }) {
       <head>
         <Script       
           //src={`https://scriptstaging.cookieyes.com/client_data/43d91c49ab844efb74ac5f76/script.js`}
-          src={`https://scriptstaging.cookieyes.com/client_data/43d91c49ab844efb74ac5f76/script.js"></script>
-          <!-- End cookieyes banner --> `}
-          
+          src={`https://scriptstaging.cookieyes.com/client_data/43d91c49ab844efb74ac5f76/script.js`}
           strategy="beforeInteractive"
         />
       </head>
