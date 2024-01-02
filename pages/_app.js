@@ -6,7 +6,6 @@ export default function RootLayout({ Component, pageProps }) {
   return (
     <html lang="en">
       <head>
-        <script id="cookieyes" type="text/javascript" src="https://scriptstaging.cookieyes.com/client_data/6064be5b3d1d7ba2c47fd42b/script.js"></script>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9884004269444664" crossorigin="anonymous"></script>
       </head>
       <Layout>
