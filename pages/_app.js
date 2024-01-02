@@ -6,12 +6,8 @@ export default function RootLayout({ Component, pageProps }) {
   return (
     <html lang="en">
       <head>
-        <Script       
-          //src={`https://scriptstaging.cookieyes.com/client_data/43d91c49ab844efb74ac5f76/script.js`}
-          src={`https://cdn-cookieyes.com/client_data/cc36826529febf9285a6be6a/script.js`}
-        />
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9884004269444664"
-     crossorigin="anonymous"></script>
+        <script id="cookieyes" type="text/javascript" src="https://scriptstaging.cookieyes.com/client_data/6064be5b3d1d7ba2c47fd42b/script.js"></script>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9884004269444664" crossorigin="anonymous"></script>
       </head>
       <Layout>
         <div className="w-5/6 m-auto">
