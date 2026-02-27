@@ -43,7 +43,8 @@ export default function RootLayout({ Component, pageProps }) {
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-W9VDJZ7B');</script>
   
-    <script id="cookieyes" type="text/javascript" src="https://cdn-staging.cookieyes.com/client_data/d4a5c4d117cb4186ce172b3c08f6a525/script.js"></script> 
+    <script id="cookieyes" type="text/javascript" src="https://cdn-staging.cookieyes.com/client_data/d4a5c4d117cb4186ce172b3c08f6a525/script.js"
+          strategy="beforeInteractive"></script> 
 
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9884004269444664" crossorigin="anonymous"></script>
       </Head>
